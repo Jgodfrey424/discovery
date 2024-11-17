@@ -1,6 +1,4 @@
-#### **`.github/workflows/docker-build.yml`**
-GitHub Actions workflow to build and test your Docker container:
-    ```yaml
+##GitHub Actions workflow to build and test your Docker container
     name: Docker Build and Test
     
     on:
